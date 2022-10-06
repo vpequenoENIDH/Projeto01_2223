@@ -45,6 +45,7 @@ Deve ser apresentado no ecrã 3 padrões distintos:
 1
 
 #Padrão C
+
         1
 
       2 1
@@ -54,7 +55,6 @@ Deve ser apresentado no ecrã 3 padrões distintos:
   4 3 2 1
   
 5 4 3 2 1
-
 
 Sendo que a figura acima é apenas um exemplo, ou seja, não é obrigatório o número ir até 5, podendo variar, conforme a escolha do utilizador. O número entretanto tem que ser um inteiro positivo menor ou igual a 10.
 
