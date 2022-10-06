@@ -21,23 +21,40 @@ Escreva um programa que desenha o menu abaixo e executa as ações correspondent
 
 Deve ser apresentado no ecrã 3 padrões distintos:
 #Padrão A
+
 1
+
 1 2
+
 1 2 3
+
 1 2 3 4
+
 1 2 3 4 5
+
 #Padrão B
+
 1 2 3 4 5
+
 1 2 3 4
+
 1 2 3
+
 1 2
+
 1
+
 #Padrão C
         1
+        
       2 1
+      
     3 2 1
+    
   4 3 2 1
+  
 5 4 3 2 1
+
 
 Sendo que a figura acima é apenas um exemplo, ou seja, não é obrigatório o número ir até 5, podendo variar, conforme a escolha do utilizador. O número entretanto tem que ser um inteiro positivo menor ou igual a 10.
 
@@ -56,7 +73,7 @@ b)	Crie um subprograma que, recebendo uma destas tabelas, e as coordenadas x e y
 
 c)	Quando o utilizador escolher qual número ele escolheu para a posição pretendida, um daqueles mostrado no vetor, o programa deve mostrar toda a tabela criada, com o valor escolhido pelo usuário na posição indicada por este.
 
-###Caso o utilizador selecione a opção 4:
+### Caso o utilizador selecione a opção 4:
 
 O programa deve informar algo indicando que a execução irá terminar.
 
@@ -66,9 +83,11 @@ O objetivo deste projeto assenta no aprendizado da linguagem Java e uso de suas 
 
 A aplicação terá que funcionar com um “double-click”. Para isso deve ser feito o “deployment” adequado. A entrega será efetuada através do e-learning, com recurso a um ficheiro “ZIP”(NÃO usar o rar) onde deverá ser incluído: 
 
-•	O jar correspondente ao deployment da aplicação; 
-•	As sources da aplicação 
-•	Relatório
+•O jar correspondente ao deployment da aplicação; 
+
+•As sources da aplicação 
+
+•Relatório
 
 ### Entrega do trabalho: 31/10/2022
 
@@ -83,14 +102,23 @@ Composto no mínimo pelas seguintes seções:
 ### Avaliação:
 
 •	Máximo de 17 valores se conseguir fazer funcionar com tudo o que foi pedido.
+
 •	Valorização por partes:
+
 •	Mostra o Menu: 0,5
+
 •	Opção 1 funciona como o esperado: 4,5 valores
+
 •	Opção 2 funciona como o esperado: 4,0 valores
+
 •	Opção 3 funciona como o esperado: 7,0 valores
+
 •	Opção 4 funciona como o esperado: 1,0 valores
+
 •	Acresce 1 valor se tiver comentários adequados (tanto em número como em significado).
+
 •	Acresce 2 valores se for feita as devidas validações de modo que impeçam a saída abrupta do programa.
+
 •	Há penalização de até 3 valores se o relatório não for entregue ou estiver incompleto.
 
 No que este enunciado foi ausente, os alunos deverão tomar decisões de implementação e expô-las devidamente no relatório, o qual é de entrega obrigatória, de forma a minimizar a necessidade de esclarecimento de dúvidas por parte da professora.
