@@ -58,6 +58,8 @@ Deve ser apresentado no ecrã 3 padrões distintos:
 
 Sendo que a figura acima é apenas um exemplo, ou seja, não é obrigatório o número ir até 5, podendo variar, conforme a escolha do utilizador. O número entretanto tem que ser um inteiro positivo menor ou igual a 10.
 
+### Atenção que o padrão C está ligeiramente diferente! Veja o enunciado original que está no moodle.
+
 ### Caso o utilizador selecione a opção 2:
 
 O utilizador jogará um jogo com o computador. O computador gera um número aleatório entre 0 e 1000 e a tarefa do utilizador é tentar adivinhar esse número. Por cada tentativa o computador indica se o número introduzido é maior ou menor que o número gerado. Quando for fornecida a resposta correta, o programa escreve o número de tentativas que foram efetuadas e termina. Para gerar um número aleatório pode usar o subprograma Math.random()
