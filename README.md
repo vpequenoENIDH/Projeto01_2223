@@ -83,11 +83,11 @@ O objetivo deste projeto assenta no aprendizado da linguagem Java e uso de suas 
 
 A aplicação terá que funcionar com um “double-click”. Para isso deve ser feito o “deployment” adequado. A entrega será efetuada através do e-learning, com recurso a um ficheiro “ZIP”(NÃO usar o rar) onde deverá ser incluído: 
 
-•O jar correspondente ao deployment da aplicação; 
+• O jar correspondente ao deployment da aplicação; 
 
-•As sources da aplicação 
+• As sources da aplicação 
 
-•Relatório
+• Relatório
 
 ### Entrega do trabalho: 31/10/2022
 
