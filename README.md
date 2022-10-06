@@ -46,7 +46,7 @@ Deve ser apresentado no ecrã 3 padrões distintos:
 
 #Padrão C
         1
-        
+
       2 1
       
     3 2 1
